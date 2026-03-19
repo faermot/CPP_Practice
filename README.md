@@ -1,5 +1,4 @@
 # C++ Практика
-_(Объектно-ориентированное программирование)_
 
 <img src="https://github.com/user-attachments/assets/e4193183-1a01-4384-919b-1e4f991de12f" width="145" />
 
